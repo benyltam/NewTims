@@ -12,7 +12,6 @@ namespace BaseControlLibrary
         static int DefaultLeft;
         static int DefaultHeight;
         static int DefaultWidth;
-        //private readonly Lib _library = new Lib();
 
         public Button()
         {
@@ -22,7 +21,6 @@ namespace BaseControlLibrary
             DefaultHeight = Height;
             DefaultWidth = Width;
 
-            //_library.ResizeCtrl(/*TODO*/);
         }
     }
 }
