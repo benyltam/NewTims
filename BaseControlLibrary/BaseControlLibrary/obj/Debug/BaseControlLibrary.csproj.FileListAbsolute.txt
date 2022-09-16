@@ -1,0 +1,16 @@
+C:\Users\Ben Tam\source\repos\C#\BaseControlLibrary\BaseControlLibrary\BaseControlLibrary\bin\Debug\BaseControlLibrary.dll
+C:\Users\Ben Tam\source\repos\C#\BaseControlLibrary\BaseControlLibrary\BaseControlLibrary\bin\Debug\BaseControlLibrary.pdb
+C:\Users\Ben Tam\source\repos\C#\BaseControlLibrary\BaseControlLibrary\BaseControlLibrary\obj\Debug\BaseControlLibrary.csproj.AssemblyReference.cache
+C:\Users\Ben Tam\source\repos\C#\BaseControlLibrary\BaseControlLibrary\BaseControlLibrary\obj\Debug\BaseControlLibrary.csproj.GenerateResource.cache
+C:\Users\Ben Tam\source\repos\C#\BaseControlLibrary\BaseControlLibrary\BaseControlLibrary\obj\Debug\BaseControlLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Ben Tam\source\repos\C#\BaseControlLibrary\BaseControlLibrary\BaseControlLibrary\obj\Debug\BaseControlLibrary.dll
+C:\Users\Ben Tam\source\repos\C#\BaseControlLibrary\BaseControlLibrary\BaseControlLibrary\obj\Debug\BaseControlLibrary.pdb
+C:\Users\Ben Tam\source\repos\C#\BaseControlLibrary\BaseControlLibrary\BaseControlLibrary\obj\Debug\BaseControlLibrary.CheckBox_.resources
+C:\Users\Ben Tam\source\repos\C#\BaseControlLibrary\BaseControlLibrary\BaseControlLibrary\obj\Debug\BaseControlLibrary.Panel_.resources
+C:\Users\Ben Tam\source\repos\C#\BaseControlLibrary\BaseControlLibrary\BaseControlLibrary\obj\Debug\BaseControlLibrary.Button_.resources
+C:\Users\Ben Tam\source\repos\C#\BaseControlLibrary\BaseControlLibrary\BaseControlLibrary\bin\Debug\Library.dll
+C:\Users\Ben Tam\source\repos\C#\BaseControlLibrary\BaseControlLibrary\BaseControlLibrary\bin\Debug\Library.pdb
+C:\Users\Ben Tam\source\repos\C#\BaseControlLibrary\BaseControlLibrary\BaseControlLibrary\obj\Debug\BaseControlLibrary.csproj.CopyComplete
+C:\Users\Ben Tam\source\repos\C#\BaseControlLibrary\BaseControlLibrary\BaseControlLibrary\obj\Debug\BaseControlLibrary.CheckBox.resources
+C:\Users\Ben Tam\source\repos\C#\BaseControlLibrary\BaseControlLibrary\BaseControlLibrary\obj\Debug\BaseControlLibrary.Xpanel.resources
+C:\Users\Ben Tam\source\repos\C#\BaseControlLibrary\BaseControlLibrary\BaseControlLibrary\obj\Debug\BaseControlLibrary.Button.resources
