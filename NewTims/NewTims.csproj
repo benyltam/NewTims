@@ -67,8 +67,6 @@
     </Compile>
     <Compile Include="BaseForm.Designer.cs">
       <DependentUpon>BaseForm.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Library.cs" />
     <Compile Include="Student_Form.cs">
       <SubType>Form</SubType>
     </Compile>
