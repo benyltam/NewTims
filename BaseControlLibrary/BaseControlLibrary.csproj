@@ -54,7 +54,6 @@
     <Compile Include="CheckBox.Designer.cs">
       <DependentUpon>CheckBox.cs</DependentUpon>
     </Compile>
-    <Compile Include="ClassMiddle.cs" />
     <Compile Include="Panel.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -76,7 +75,7 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\Library\Library\Library\Library.csproj">
+    <ProjectReference Include="..\Library\Library.csproj">
       <Project>{0458aae6-6083-48fb-a246-80f3f7e84466}</Project>
       <Name>Library</Name>
     </ProjectReference>
