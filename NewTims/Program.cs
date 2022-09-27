@@ -1,13 +1,11 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Data.OleDb;
-using System.Linq;
-using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Data.OleDb;
+
 
 namespace NewTims
 {
-    internal static class Program
+    static class Program
     {
         /// <summary>
         /// The main entry point for the application.
@@ -17,9 +15,13 @@ namespace NewTims
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            //string x = Lib.Item("aaaa,bbb,cc,a",3);
-            Application.Run(new Student_Form());
-            OleDbConnection myConnection = new OleDbConnection("Provider=MSOLEDBSQL;Server=localHost;Database=" + "TIMS" + ";Trusted_Connection=yes;");
-         }
+
+            //OleDbConnection myConnection = new OleDbConnection("Provider=MSOLEDBSQL;Server=localHost;Database=TIMS;Trusted_Connection=yes;");
+            //int StudentID = FROM Student Order by StudentID;
+
+            //Application.Run(new DaySchedule_Form());
+            Application.Run(new Student_Form(""));
+            //Application.Run(new StudentList_Form());
+        }
     }
 }
