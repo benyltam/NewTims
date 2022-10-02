@@ -1,0 +1,65 @@
+C:\Users\Ben Tam\source\repos\C#\187 NewTims\NewTims\bin\Debug\NewTims.exe.config
+C:\Users\Ben Tam\source\repos\C#\187 NewTims\NewTims\bin\Debug\NewTims.exe
+C:\Users\Ben Tam\source\repos\C#\187 NewTims\NewTims\bin\Debug\NewTims.pdb
+C:\Users\Ben Tam\source\repos\C#\187 NewTims\NewTims\bin\Debug\ObjectListView.dll
+C:\Users\Ben Tam\source\repos\C#\187 NewTims\NewTims\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Ben Tam\source\repos\C#\187 NewTims\NewTims\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Ben Tam\source\repos\C#\187 NewTims\NewTims\bin\Debug\System.Security.Permissions.dll
+C:\Users\Ben Tam\source\repos\C#\187 NewTims\NewTims\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Ben Tam\source\repos\C#\187 NewTims\NewTims\bin\Debug\ObjectListView.pdb
+C:\Users\Ben Tam\source\repos\C#\187 NewTims\NewTims\bin\Debug\ObjectListView.xml
+C:\Users\Ben Tam\source\repos\C#\187 NewTims\NewTims\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Ben Tam\source\repos\C#\187 NewTims\NewTims\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Ben Tam\source\repos\C#\187 NewTims\NewTims\bin\Debug\System.Security.Permissions.xml
+C:\Users\Ben Tam\source\repos\C#\187 NewTims\NewTims\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Ben Tam\source\repos\C#\187 NewTims\NewTims\obj\Debug\NewTims.csproj.AssemblyReference.cache
+C:\Users\Ben Tam\source\repos\C#\187 NewTims\NewTims\obj\Debug\NewTims.Student_Form.resources
+C:\Users\Ben Tam\source\repos\C#\187 NewTims\NewTims\obj\Debug\NewTims.Properties.Resources.resources
+C:\Users\Ben Tam\source\repos\C#\187 NewTims\NewTims\obj\Debug\NewTims.csproj.GenerateResource.cache
+C:\Users\Ben Tam\source\repos\C#\187 NewTims\NewTims\obj\Debug\NewTims.csproj.CoreCompileInputs.cache
+C:\Users\Ben Tam\source\repos\C#\187 NewTims\NewTims\obj\Debug\NewTims.csproj.CopyComplete
+C:\Users\Ben Tam\source\repos\C#\187 NewTims\NewTims\obj\Debug\NewTims.exe
+C:\Users\Ben Tam\source\repos\C#\187 NewTims\NewTims\obj\Debug\NewTims.pdb
+C:\Users\Ben Tam\source\repos\C#\189 NewTims\NewTims\bin\Debug\NewTims.exe
+C:\Users\Ben Tam\source\repos\C#\189 NewTims\NewTims\bin\Debug\NewTims.pdb
+C:\Users\Ben Tam\source\repos\C#\189 NewTims\NewTims\bin\Debug\ObjectListView.dll
+C:\Users\Ben Tam\source\repos\C#\189 NewTims\NewTims\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Ben Tam\source\repos\C#\189 NewTims\NewTims\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Ben Tam\source\repos\C#\189 NewTims\NewTims\bin\Debug\System.Security.Permissions.dll
+C:\Users\Ben Tam\source\repos\C#\189 NewTims\NewTims\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Ben Tam\source\repos\C#\189 NewTims\NewTims\bin\Debug\ObjectListView.pdb
+C:\Users\Ben Tam\source\repos\C#\189 NewTims\NewTims\bin\Debug\ObjectListView.xml
+C:\Users\Ben Tam\source\repos\C#\189 NewTims\NewTims\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Ben Tam\source\repos\C#\189 NewTims\NewTims\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Ben Tam\source\repos\C#\189 NewTims\NewTims\bin\Debug\System.Security.Permissions.xml
+C:\Users\Ben Tam\source\repos\C#\189 NewTims\NewTims\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Ben Tam\source\repos\C#\189 NewTims\NewTims\obj\Debug\NewTims.csproj.AssemblyReference.cache
+C:\Users\Ben Tam\source\repos\C#\189 NewTims\NewTims\obj\Debug\NewTims.Student_Form.resources
+C:\Users\Ben Tam\source\repos\C#\189 NewTims\NewTims\obj\Debug\NewTims.Properties.Resources.resources
+C:\Users\Ben Tam\source\repos\C#\189 NewTims\NewTims\obj\Debug\NewTims.csproj.GenerateResource.cache
+C:\Users\Ben Tam\source\repos\C#\189 NewTims\NewTims\obj\Debug\NewTims.csproj.CoreCompileInputs.cache
+C:\Users\Ben Tam\source\repos\C#\189 NewTims\NewTims\obj\Debug\NewTims.csproj.CopyComplete
+C:\Users\Ben Tam\source\repos\C#\189 NewTims\NewTims\obj\Debug\NewTims.exe
+C:\Users\Ben Tam\source\repos\C#\189 NewTims\NewTims\obj\Debug\NewTims.pdb
+C:\Users\Ben Tam\source\repos\C#\189 NewTims\NewTims\obj\Debug\NewTims.DaySchedule_Form.resources
+C:\Users\Ben Tam\source\repos\C#\189 NewTims\NewTims\obj\Debug\NewTims.CourseList_Form.resources
+C:\Users\Ben Tam\source\repos\C#\189 NewTims\NewTims\obj\Debug\NewTims.StudentList_Form.resources
+C:\Users\Ben Tam\source\repos\C#\189 NewTims\NewTims\obj\Debug\NewTims.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ben Tam\source\repos\C#\189 NewTims\NewTims\bin\Debug\EntityFramework.dll
+C:\Users\Ben Tam\source\repos\C#\189 NewTims\NewTims\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ben Tam\source\repos\C#\189 NewTims\NewTims\bin\Debug\EntityFramework.xml
+C:\Users\Ben Tam\source\repos\C#\189 NewTims\NewTims\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ben Tam\source\repos\C#\189 NewTims - Copy (2)\NewTims\obj\Debug\NewTims.csproj.AssemblyReference.cache
+C:\Users\Ben Tam\source\repos\C#\189 NewTims - Copy (2)\NewTims\obj\Debug\NewTims.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ben Tam\source\repos\C#\189 NewTims - Copy (2)\NewTims\obj\Debug\NewTims.CourseList_Form.resources
+C:\Users\Ben Tam\source\repos\C#\189 NewTims - Copy (2)\NewTims\obj\Debug\NewTims.DaySchedule_Form.resources
+C:\Users\Ben Tam\source\repos\C#\189 NewTims - Copy (2)\NewTims\obj\Debug\NewTims.Student_Form.resources
+C:\Users\Ben Tam\source\repos\C#\189 NewTims - Copy (2)\NewTims\obj\Debug\NewTims.StudentList_Form.resources
+C:\Users\Ben Tam\source\repos\C#\189 NewTims - Copy (2)\NewTims\obj\Debug\NewTims.Properties.Resources.resources
+C:\Users\Ben Tam\source\repos\C#\189 NewTims - Copy (2)\NewTims\obj\Debug\NewTims.csproj.GenerateResource.cache
+C:\Users\Ben Tam\source\repos\C#\189 NewTims - Copy (2)\NewTims\obj\Debug\NewTims.csproj.CoreCompileInputs.cache
+C:\Users\Ben Tam\source\repos\C#\189 NewTims - Copy (2)\NewTims\obj\Debug\NewTims.exe
+C:\Users\Ben Tam\source\repos\C#\189 NewTims - Copy (2)\NewTims\obj\Debug\NewTims.pdb
+C:\Users\Ben Tam\source\repos\C#\189 NewTims\NewTims\bin\Debug\Library.dll
+C:\Users\Ben Tam\source\repos\C#\189 NewTims\NewTims\bin\Debug\Library.pdb
+C:\Users\Ben Tam\source\repos\C#\189 NewTims\NewTims\obj\Debug\NewTims.BaseForm.resources
